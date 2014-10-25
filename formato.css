@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {padding:0 ; margin:0 ; }
+
+body {width:800px ; margin-left:auto; margin-right:auto; font-size:small; font-family:Arial, Helvetica, sans-serif; color:#333; font-style:italic; margin-top:5px ;}
+
+
+#encabezado { border:2px solid #00F; ; background-repeat:no-repeat; background-position: right top; background-color:#FFF ; border-color:#000 ; height:60px; padding-top:20px; padding-left:10px ; background-image:url(diverza.jpg) ;-moz-border-radius:10px 10px 0 0 ; -webkit-border-radius:10px 10px 0 0;	}
+
+#menu {border:2px solid #333; height:21px ; padding:3px 0px 1px 1px ; background-color:#FFF  }
+
+#menu ul li {list-style:none; display:inline ; font-size:16px; border:solid 2px #333; 
+}
+
+a:link , a:visited { color:#000 ; text-decoration:none }
+a:hover, a:focus { text-decoration: none ; background-color:#111; color:#f00 }
+
+
+#cuerpo {border:2px solid #333; height:500px;    background-color:#FFF ; overflow:auto; padding: 10px;  -moz-border-radius: 0 0 10px 10px ; -webkit-border-radius:0 0 10px 10px;}
+
+
+h2 ,h3 {text-align:center}
+
+#inputs input{ width:350px;   }
+
+
+ 
+html { background-color:#F90}

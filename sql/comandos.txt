@@ -1,0 +1,4 @@
+INSERT INTO direcciones
+(Tratamiento, Nombre , Apellido , Calle , CP , Localidad , Tel , Móvil , Mail , Website , Categoría , Notas)
+VALUES
+('sr', 'juan' , 'perez' , 'pino' , '66635' , 'Apodaca' , '83000000' , '8110000000' , 'juanperez@hotmail.com' , 'Website' , 'Categoría' , 'Notas')
